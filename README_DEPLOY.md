@@ -14,4 +14,4 @@ Sora / 视频其它 怎么用 / 国内用 Sora / 视频其它 / Sora / 视频其
 
 模板：`site_v3.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-sora&utm_medium=referral&utm_campaign=sora`
-最后更新：2026年07月28日
+最后更新：2026年07月29日
